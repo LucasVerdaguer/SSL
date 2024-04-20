@@ -1,7 +1,7 @@
 Para poder crear un programa que ejecute Hola mundo es necesario seguir los siguientes pasos:
 - Instalar visual estudio code
-- En caso de tener una computadora con Windows es necesario instalar mingw, quien se va a encargar de descargar e instalar nuestro compilador
-- Verificar la vercion del compilador gcc, en mi caso es la version 13.2.0 que utiliza el estandar c18 por defecto.
+- Instalar mingw (En caso de tener una computadora windows)
+- Verificar la version del compilador gcc, en mi caso es la version 13.2.0 que utiliza el estandar c18 por defecto.
 - Iniciar visual estudio code 
 - Crear un archivo llamado hello.c
 - Incluir la libreria stdio.h escribiendo el siguiente comando: #include <stdio.h>
