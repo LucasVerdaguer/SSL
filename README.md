@@ -1,5 +1,5 @@
 # BIENVENIDO!
-- Mi nombre es Lucas Verdaguer, soy hincha del club atletico Boca Juniors y amo los perros.
+- Mi nombre es Lucas Verdaguer, soy hincha del club atletico Boca Juniors y me gustan mucho los perros.
 - Estoy cursando el segundo año de la carrera ingenieria en sistemas (aunque debo analisis y fisica de primero).
 - Actualmente estoy cursando:
   - Analisis 1.
@@ -8,4 +8,4 @@
   - Sintaxis y semantica de los lenguajes.
   - Paradigmas de la programacion.
   - Me iba a anotar a sistemas operativos pero me dio miedo.
--Dejo mi mail por cualquier consulta: lverdaguer@frba.utn.edu.ar
+- Dejo mi mail por cualquier consulta: lverdaguer@frba.utn.edu.ar
