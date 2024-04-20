@@ -1,3 +1,11 @@
-# SSL
-Buen dia! Mi nombre es Lucas Verdaguer, soy hincha del club atletico Boca Juniors y amo los perros. actualmente estoy cursando Analisis 1, Ingles 1, Analisis de sistemas, Sintaxis y Paradigmas ( Me dio miedo sistemas operativos ).
-Dejo mi mail por cualquier consulta: lverdaguer@frba.utn.edu.ar
+# BIENVENIDO!
+- Mi nombre es Lucas Verdaguer, soy hincha del club atletico Boca Juniors y amo los perros.
+- Estoy cursando el segundo año de la carrera ingenieria en sistemas (aunque debo analisis y fisica de primero).
+- Actualmente estoy cursando:
+  - Analisis 1.
+  - Ingles 1.
+  - Analisis de sistemas.
+  - Sintaxis y semantica de los lenguajes.
+  - Paradigmas de la programacion.
+  - Me iba a anotar a sistemas operativos pero me dio miedo.
+-Dejo mi mail por cualquier consulta: lverdaguer@frba.utn.edu.ar
